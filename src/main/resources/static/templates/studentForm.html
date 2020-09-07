@@ -1,0 +1,32 @@
+<div class="modal-header">
+    <h3 ng-show="studentAction === 'add'">Add a student</h3>
+    <h3 ng-show="studentAction === 'update'">Edit a student</h3>
+</div>
+<div class="modal-body">
+    <form name="studentForm" role="form">
+        <div class="form-group has-feedback" ng-class="{'has-warning': studentForm.firstName.$invalid, 'has-success': studentForm.firstName.$valid}">
+            <label for="firstName">First Name</label>
+            <input type="text" class="form-control input-large" id="firstName" name="firstName" required ng-model="student.firstName">
+            <span class="glyphicon form-control-feedback" ng-class="{'glyphicon-warning-sign': studentForm.firstName.$invalid, 'glyphicon-ok': studentForm.firstName.$valid}"></span>
+        </div>
+        <div class="form-group has-feedback" ng-class="{'has-warning': studentForm.lastName.$invalid, 'has-success': studentForm.lastName.$valid}">
+            <label for="lastName">Last Name</label>
+            <input type="text" class="form-control input-large" id="lastName" name="lastName" required ng-model="student.lastName">
+            <span class="glyphicon form-control-feedback" ng-class="{'glyphicon-warning-sign': studentForm.lastName.$invalid, 'glyphicon-ok': studentForm.lastName.$valid}"></span>
+        </div>
+        <div class="form-group has-feedback" ng-class="{'has-warning': studentForm.facultyNumber.$invalid, 'has-success': studentForm.facultyNumber.$valid}">
+            <label for="facultyNumber">Faculty Number</label>
+            <input type="text" class="form-control input-small" id="facultyNumber" name="facultyNumber" required ng-model="student.facultyNumber" ng-pattern=facultyNumberPattern>
+            <span class="glyphicon form-control-feedback" ng-class="{'glyphicon-warning-sign': studentForm.facultyNumber.$invalid, 'glyphicon-ok': studentForm.facultyNumber.$valid}"></span>
+        </div>
+        <div class="form-group has-feedback" ng-class="{'has-warning': studentForm.faculty.$invalid, 'has-success': studentForm.faculty.$valid}">
+            <label for="faculty">Faculty</label>
+            <input type="text" class="form-control input-medium" id=faculty name="faculty" required ng-model="student.faculty">
+            <span class="glyphicon form-control-feedback" ng-class="{'glyphicon-warning-sign': studentForm.faculty.$invalid, 'glyphicon-ok': studentForm.faculty.$valid}"></span>
+        </div>
+    </form>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary btn-md active" ng-disabled="studentForm.$invalid" ng-click="ok()" >OK</button>
+    <button class="btn btn-warning btn-md active" ng-click="cancel()">Cancel</button>
+</div>

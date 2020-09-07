@@ -1,0 +1,205 @@
+[
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Brady",
+        "firstName": "Rosa",
+        "facultyNumber": "3711791195",
+        "faculty": "FACULTY OF HISTORY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Flynn",
+        "firstName": "Polly",
+        "facultyNumber": "6633269642",
+        "faculty": "FACULTY OF BIOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Mills",
+        "firstName": "Ella",
+        "facultyNumber": "6327773114",
+        "faculty": "FACULTY OF BIOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Whittle",
+        "firstName": "Caitlin",
+        "facultyNumber": "7670301599",
+        "faculty": "FACULTY OF PHILOSOPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Gibbs",
+        "firstName": "Erica",
+        "facultyNumber": "3826503743",
+        "faculty": "FACULTY OF HISTORY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Poole",
+        "firstName": "Morgan",
+        "facultyNumber": "1899921295",
+        "faculty": "FACULTY OF MATHEMATICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Perez",
+        "firstName": "Pearl",
+        "facultyNumber": "0553472745",
+        "faculty": "FACULTY OF PHYSICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "White",
+        "firstName": "Isobel",
+        "facultyNumber": "6925834841",
+        "faculty": "FACULTY OF BIOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Lucas",
+        "firstName": "Amber",
+        "facultyNumber": "8549065420",
+        "faculty": "FACULTY OF CHEMISTRY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Kenny",
+        "firstName": "Noah",
+        "facultyNumber": "7866001076",
+        "faculty": "FACULTY OF PHILOSOPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Edwards",
+        "firstName": "Xander",
+        "facultyNumber": "9593121606",
+        "faculty": "FACULTY OF GEOGRAPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Mann",
+        "firstName": "Adil",
+        "facultyNumber": "7782861132",
+        "faculty": "FACULTY OF PHILOSOPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Kelly",
+        "firstName": "Bradley",
+        "facultyNumber": "0211489120",
+        "faculty": "FACULTY OF PHYSICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Ford",
+        "firstName": "Nicholas",
+        "facultyNumber": "0442111468",
+        "faculty": "FACULTY OF PHYSICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Gallagher",
+        "firstName": "Damien",
+        "facultyNumber": "3062730528",
+        "faculty": "FACULTY OF HISTORY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Wilson",
+        "firstName": "Ted",
+        "facultyNumber": "0129851027",
+        "faculty": "FACULTY OF PHYSICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Howell",
+        "firstName": "Dominic",
+        "facultyNumber": "5899596354",
+        "faculty": "FACULTY OF PHILOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Clark",
+        "firstName": "Oscar",
+        "facultyNumber": "8326337776",
+        "faculty": "FACULTY OF CHEMISTRY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Humphrey",
+        "firstName": "Anastasia",
+        "facultyNumber": "1439522559",
+        "faculty": "FACULTY OF MATHEMATICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Welch",
+        "firstName": "Georgina",
+        "facultyNumber": "9948935512",
+        "faculty": "FACULTY OF GEOGRAPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Mendez",
+        "firstName": "Aidan",
+        "facultyNumber": "0434955454",
+        "faculty": "FACULTY OF PHYSICS"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Ray",
+        "firstName": "Phoebe",
+        "facultyNumber": "5346708238",
+        "faculty": "FACULTY OF PHILOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Perry",
+        "firstName": "Willie",
+        "facultyNumber": "9328701572",
+        "faculty": "FACULTY OF GEOGRAPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Carter",
+        "firstName": "Rosemary",
+        "facultyNumber": "7713157339",
+        "faculty": "FACULTY OF PHILOSOPHY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Marsh",
+        "firstName": "Kaitlyn",
+        "facultyNumber": "6718712041",
+        "faculty": "FACULTY OF BIOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Carroll",
+        "firstName": "Theo",
+        "facultyNumber": "3807181875",
+        "faculty": "FACULTY OF HISTORY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Vaughn",
+        "firstName": "Stephen",
+        "facultyNumber": "5182143847",
+        "faculty": "FACULTY OF PHILOLOGY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Perkins",
+        "firstName": "Chris",
+        "facultyNumber": "3580147890",
+        "faculty": "FACULTY OF HISTORY"
+    },
+    {
+        "_class": "com.sample.domain.Student",
+        "lastName": "Norman",
+        "firstName": "Ryan",
+        "facultyNumber": "9259382873",
+        "faculty": "FACULTY OF GEOGRAPHY"
+    }
+]
